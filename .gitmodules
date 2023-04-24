@@ -1,0 +1,4 @@
+[submodule "plugin"]
+	path = plugin
+	url = https://git.ahriknow.com/ahriknow-client/plugin.git
+	branch = dev
